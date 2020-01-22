@@ -15,4 +15,11 @@
     font-family: Sans-serif;
     text-align: center;
 }
-
+.footer {
+    background: slategray;
+    padding: 30px;
+    font-size: 32px;
+    color: #fff;
+    font-family: Sans-serif;
+    text-align: center;
+}
